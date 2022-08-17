@@ -1,4 +1,4 @@
-# 21 Dias de Código
+# 💻 21 Dias de Código
 
 #### Repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código com a Rocketseat.🚀
 
