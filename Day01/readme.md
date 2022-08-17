@@ -2,13 +2,23 @@
 
 #### Repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código com a Rocketseat.🚀
 
+
+
 ## As regras para participar do desafio são:
 
+
+
 - Todos os dias, codar por pelo menos 1h;
+
 - Compartilhar todos os dias o progresso nas redes sociais e marcar a Rocketseat com a hashtag #21diasdecodigo;
+
 - Gerar networking com as pessoas que também estão participando do desafio.
 
-##### Complementando o desafio, a Jakeliny Gracielly acrescentou duas regras extras para os participantes do #marmitech:
+  
+
+**Complementando o desafio, a Jakeliny Gracielly acrescentou duas regras extras para os participantes do #marmitech**:
+
+
 
 - Marcar o perfil da @JakelinyGracielly;
 - Acrescentar a hashtag #soumarmiteiro.
