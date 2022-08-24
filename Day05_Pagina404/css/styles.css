@@ -1,0 +1,36 @@
+section {
+    padding: 40px 0;
+    background: #fff;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 50px;
+}
+
+
+.principal-container {
+    background-image: url(../assets/IMG_5595.GIF);
+    height: 400px;
+    background-position: center;
+    margin-top: 70px;
+}
+
+.text-center h1 {
+    font-size:80px;
+}
+ 
+.subtitle h3 {
+    font-size: 80px;
+}
+
+.contant a {
+    color:#fff !important;
+    padding: 10px 20px;
+    background: rebeccapurple ;
+    margin: 20px 0;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 12px;
+}
+
+.contant {
+    margin-top: -50px;
+}
